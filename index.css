@@ -147,3 +147,61 @@ nav button{
     width: 90%;
     margin: auto;
 }
+
+
+.features h1{
+    font-size: 50px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+
+
+/* Faq seaction */
+
+.faq{
+    padding: 20px 50px;
+    text-align: center;
+    font-size: 26px;
+    font-weight: 600;
+   
+}
+
+.bandage{
+
+    margin: 2% 9% 2% 9%;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+
+}
+
+
+
+.faq p{
+    font-size: 24px;
+    font-weight: normal;
+    display: flex;
+    justify-content:space-between;
+    padding: 27px 0 2px 25px;
+   background-color: rgba(45, 45, 45);
+   height:84px;
+}
+
+
+.faq span{
+    /* border: 2px solid white; */
+    font-size: 45px;
+    padding-right: 35px;
+   
+
+}
+
+
+.inner-content {
+
+    margin-bottom: 10px;
+}
+
+
+
